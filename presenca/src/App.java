@@ -1,8 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
+        System.out.println("Aula de FDS!");
         System.out.println("acho que foi");
         System.out.println("eu tentei!!");
-        System.out.println("Aula de FDS!");
+        // Bruno Laitano
         System.out.println("19/03/2024");
         System.out.println("Presente!!");
         System.out.println("Isadora Fonseca presente ");
